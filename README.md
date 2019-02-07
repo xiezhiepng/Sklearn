@@ -1,16 +1,21 @@
 # Sklearn_example
 ## Introduction
 
-pytorch基础一些代码，适用于刚入门或者想了解pytorch的朋友学习。学习前需要python以及numpy基础。
-代码在notebook上实现，建议下载一个anaconda安装notebook。软件链接：https://www.anaconda.com/download/
+SciKit learn的简称是SKlearn，是一个python库，专门用于机器学习的模块。
+
+官网：http://scikit-learn.org/stable/#
+
+参考：https://morvanzhou.github.io/tutorials/machine-learning/sklearn/
+
+GitHub：https://github.com/xiezhiepng/Sklearn
+
+
 
 ### Contents
 
-内容包括：Tensor基础、网络层搭建、CNN、RNN、强化学习、GAN等简单小项目。
+内容：https://blog.csdn.net/qq_27262727/article/details/86771238
 
-### Data Preparation
 
-minist数据集，链接：http://yann.lecun.com/exdb/mnist/
 
 ### prerequisites
 
